@@ -10,3 +10,10 @@ NS1.AFRAID.ORG
 NS2.AFRAID.ORG
 NS3.AFRAID.ORG
 NS4.AFRAID.ORG
+
+step 1. get into name servers
+step 2. get into custom dns
+step 3. enter domain name latha54311.com
+step4. get hosting ip address (shared)
+step5. paste the hosted ip address (shared) into destination, after clicking the various links.
+step6. 
